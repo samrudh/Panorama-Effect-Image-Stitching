@@ -5,12 +5,16 @@ Detailed post is available [on medium](<https://medium.com/tech-that-works/how-d
 
 This implementation is part of coursework of computer vision course at IIIT Hyderabad, 2019
 
+
+
+
+
 Reference:
 
-1. <http://aishack.in/tutorials/sift-scale-invariant-feature-transform-introduction/>
+-  <http://aishack.in/tutorials/sift-scale-invariant-feature-transform-introduction/>
 
-2. <https://www.learnopencv.com/homography-examples-using-opencv-python-c/>
+-  <https://www.learnopencv.com/homography-examples-using-opencv-python-c/>
 
-3. <https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/>
+-  <https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/>
 
    
