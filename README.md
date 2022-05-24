@@ -9,7 +9,7 @@ This implementation is part of coursework of computer vision course at IIIT Hyde
 
 
 
-Reference:
+References:
 
 -  <http://aishack.in/tutorials/sift-scale-invariant-feature-transform-introduction/>
 
